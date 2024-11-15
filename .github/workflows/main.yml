@@ -9,7 +9,6 @@ on:
       - staging
 
 # Jobs to carry out
-# Each job runs on a different operating system
 jobs:
   test:
     # Operating system to run job on
